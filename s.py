@@ -1,5 +1,4 @@
-with open('ezhil.txt','r+') as f:
-	f.write('Hai, Hello')
+print('Hai this is my sample')
 	
 
 
